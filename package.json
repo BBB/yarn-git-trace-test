@@ -1,0 +1,9 @@
+{
+  "name": "yarn-git-trace-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-webview-android-file-upload": "git+https://git@github.com/andreipfeiffer/react-native-webview-android-file-upload.git#0.1.0"
+  }            
+}
